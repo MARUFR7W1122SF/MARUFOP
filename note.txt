@@ -1,0 +1,3 @@
+    ip:MARUF1000.aternos.me
+    port:27937
+    name:ENTITY
